@@ -5,7 +5,7 @@ I'm Kshitij, a self-taught data analyst from 🇮🇳 India.
 ###  About Me in 30 Secs 
 - 👩🏻‍💻 Gamer by Passion
 - 📊 Transition to data since **January 2022**
-- 📝 Taught myself SQL, Python , R and Tableau
+- 📝 Taught myself SQL, Python , R , Power BI and Tableau
 
 ### ⚡️ Currently ⚡️
 
